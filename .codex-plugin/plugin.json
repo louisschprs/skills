@@ -1,0 +1,25 @@
+{
+  "name": "personal-skills",
+  "version": "0.1.0",
+  "description": "Personal reusable skills for ChatGPT and Agent Skills compatible agents.",
+  "author": {
+    "name": "Louis Scheepers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "personal",
+    "workflow"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Personal Skills",
+    "shortDescription": "Personal reusable workflows and skills",
+    "longDescription": "A collection of personal reusable skills and workflows for ChatGPT and Agent Skills compatible CLI agents.",
+    "developerName": "Louis Scheepers",
+    "category": "Developer Tools",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}
